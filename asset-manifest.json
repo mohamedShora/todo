@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//mohamedShora.github.io/todo/static/css/main.ad7c0c64.chunk.css",
+    "main.js": "/http//mohamedShora.github.io/todo/static/js/main.6255259c.chunk.js",
+    "main.js.map": "/http//mohamedShora.github.io/todo/static/js/main.6255259c.chunk.js.map",
+    "runtime-main.js": "/http//mohamedShora.github.io/todo/static/js/runtime-main.8d7e33bc.js",
+    "runtime-main.js.map": "/http//mohamedShora.github.io/todo/static/js/runtime-main.8d7e33bc.js.map",
+    "static/js/2.084cf1c0.chunk.js": "/http//mohamedShora.github.io/todo/static/js/2.084cf1c0.chunk.js",
+    "static/js/2.084cf1c0.chunk.js.map": "/http//mohamedShora.github.io/todo/static/js/2.084cf1c0.chunk.js.map",
+    "static/js/3.8871606d.chunk.js": "/http//mohamedShora.github.io/todo/static/js/3.8871606d.chunk.js",
+    "static/js/3.8871606d.chunk.js.map": "/http//mohamedShora.github.io/todo/static/js/3.8871606d.chunk.js.map",
+    "index.html": "/http//mohamedShora.github.io/todo/index.html",
+    "static/css/main.ad7c0c64.chunk.css.map": "/http//mohamedShora.github.io/todo/static/css/main.ad7c0c64.chunk.css.map",
+    "static/js/2.084cf1c0.chunk.js.LICENSE.txt": "/http//mohamedShora.github.io/todo/static/js/2.084cf1c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7e33bc.js",
+    "static/js/2.084cf1c0.chunk.js",
+    "static/css/main.ad7c0c64.chunk.css",
+    "static/js/main.6255259c.chunk.js"
+  ]
+}
